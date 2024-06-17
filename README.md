@@ -136,10 +136,16 @@ Before you begin, ensure you have the following:
 ### References
 
 - **Nexmon CSI**: [Nexmon CSI GitHub](https://github.com/seemoo-lab/nexmon_csi)
-- **Raspberry Pi AP Mode Setup**: [Setup Guide](https://limjunho.github.io/2020/08/25/Raspberry-Pi-AP%EB%A7%8C%EB%93%A4%EA%B8%B0.html)
-- **PCAP to CSV**: [Converter](https://github.com/cheeseBG/pcap-to-csv)
-- **CSI Visualization**: [Visualization Tool](https://github.com/cheeseBG/csi-visualization)
+- **Nexmon Install Manual**: [Nexmon Installation Guide](https://pio-ji.notion.site/Wi-Fi-Sensing-3c03bfbaa99c4cb8a7a40333278efff3)
+- **Raspberry Pi AP Mode**: [Setup Guide](https://limjunho.github.io/2020/08/25/Raspberry-Pi-AP%EB%A7%8C%EB%93%A4%EA%B8%B0.html)
+- **What is Nexmon**: [Nexmon Overview](https://github.com/seemoo-lab/bcm-rpi3)
+- **What is Raspberry Pi**: [Raspberry Pi Resource](https://opensource.com/resources/raspberry-pi)
+- **Gigasheet, Convert PCAP to CSV**: [Gigasheet Converter](https://www.gigasheet.com/popular-tools/convert-pcap-to-csv)
+- **Convert PCAP to CSV**: [PCAP to CSV GitHub](https://github.com/cheeseBG/pcap-to-csv)
+- **CSI Real Time Visualization**: [CSI Visualization GitHub](https://github.com/cheeseBG/csi-visualization)
 - **People Counting Model**: [Wi-Fi Sensing GitHub](https://github.com/cheeseBG/wifi-sensing)
+- **Insomnia News Articles**: [Chosun News](https://biz.chosun.com/it-science/ict/2022/01/07/YV7CA77GXRHGFHVW4VVCG2V5SQ/) and [Medigate News](https://medigatenews.com/news/2161288985)
+- **About Insomnia Wi-Fi Sensing**: [Brunch Article](https://brunch.co.kr/@8d2b9087f2a94bd/61)
 
 ---
 
